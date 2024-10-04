@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+👋 Hi there! I'm Tingting
+🎓 Currently exploring the fields of speech recognition, computer vision, machine learning, and augmented reality with a goal of developing innovative social robotics solutions. I code in Python, JavaScript, and C#, and I'm constantly learning new technologies to expand my skills. 
+💻 I’m particularly interested in:
+🤖 Human-Robot Interaction
+📸 Computer Vision
+🧠 Speech recognition
+🛠️ Augmented Reality and Virtual Reality interactive programming
+💻 Social robotic
+📚 Currently learning about deep learning and computer vision to better understand the capabilities of machine learning models.
+🚀 Future goal: To develop multimodal interactive robot programming and create a robot that can help people live happier and healthier lives.
+🔗 Let's connect, collaborate, and build something meaningful together!
+
+
 <!--
 **Liliannatt/Liliannatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
