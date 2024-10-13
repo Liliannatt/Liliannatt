@@ -12,7 +12,7 @@
   
       🛠️ Augmented Reality and Virtual Reality interactive programming
   
-      💻 Social robotic
+      💻 Artificial Intelligence
   
 📚 Currently learning about deep learning and computer vision to better understand the capabilities of machine learning models.
 
