@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tingting!
 
-🎓 Currently exploring the fields of speech recognition, computer vision, machine learning, and augmented reality to develop innovative social robotics solutions. I code in Python, JavaScript, and C# and constantly learn new technologies to expand my skills. 
+🎓 Currently exploring the fields of perception learning and robots to develop innovative and multimodal robotics solutions. I code in Python, C++, JavaScript, and C# and constantly learn new technologies to expand my skills. 
 
 🤔 I’m particularly interested in:
   
@@ -10,13 +10,13 @@
   
       🧠 Speech recognition
   
-      🛠️ Augmented Reality and Virtual Reality interactive programming
+      🛠️ Reinforcement learning
   
       💻 Artificial Intelligence
   
-📚 Currently learning about deep learning and computer vision to better understand the capabilities of machine learning models.
+📚 Currently learning more about reinforcement learning to develop robot navigation algorithms.
 
-🚀 Future goal: To develop multimodal interactive robot programming and create a robot to help people live happier and healthier lives.
+🚀 Future goal: To develop a multimodal interactive and useful robot to help people live happier and healthier lives.
 
 🔗 Let's connect, collaborate, and build something meaningful together!
 
