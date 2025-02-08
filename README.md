@@ -4,7 +4,7 @@
 
 🤔 I’m particularly interested in:
   
-      🤖 Human-Robot Interaction
+      🤖 Robotics
   
       📸 Computer Vision
   
