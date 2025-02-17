@@ -14,7 +14,7 @@
   
       💻 Artificial Intelligence
   
-📚 Currently learning more about reinforcement learning to develop robot navigation algorithms.
+📚 Currently learning more about reinforcement learning from human feedback to develop robot navigation algorithms.
 
 🚀 Future goal: To develop a multimodal interactive and useful robot to help people live happier and healthier lives.
 
