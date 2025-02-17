@@ -1,12 +1,14 @@
 ## Hi there 👋 I'm Tingting!
 
-🎓 **Master’s Student in Computer Science and Engineering, Specializing in Interaction Media Technology** @ KTH Royal Institute of Technology 
+🎓 **Master’s Student in Computer Science and Engineering, Specializing in Interaction Media Technology** @ KTH Royal Institute of Technology
+
 💡 **Currently:** Interning as a Computer Vision & Machine Learning engineer in Manomontion
+
 📍 **Seeking:** Any opportunities in AI & Social Robotics 
 
 ## 🚀 About Me
 
-🚀 I’m passionate about developing innovative, multimodal interactive, and useful robotic solutions to help people live happier and healthier lives.
+🚀 I’m passionate about developing innovative and multimodal interactive robotic solutions to help people live happier and healthier lives.
 
 💡 I have hands-on experience in **deep learning, machine learning, and robotics**, applying **computer vision and NLP** techniques to enhance human-robot collaboration.
 
