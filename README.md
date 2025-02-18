@@ -12,7 +12,7 @@
 
 💡 I have hands-on experience in **deep learning, machine learning, and robotics**, applying **computer vision and NLP** techniques to enhance human-robot collaboration.
 
-🎓 I code in Python, C++, JavaScript, and C# and constantly learn new technologies to expand my skills. 
+🎓 I code in Python, C++, JavaScript, C#, and Cuda, and constantly learn new technologies to expand my skills. 
 
 🤔 I’m particularly interested in:
   
