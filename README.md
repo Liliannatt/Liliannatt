@@ -1,10 +1,6 @@
 ## Hi there 👋 I'm Tingting!
 
-🎓 **Master’s Student in Computer Science and Engineering, Specializing in Interaction Media Technology** @ KTH Royal Institute of Technology
-
-💡 **Currently:** Interning as a Computer Vision & Machine Learning engineer in Manomontion
-
-📍 **Seeking:** Any opportunities in AI & Social Robotics 
+🎓 **PhD Student in AI and Human Robot Interation** @ Digital Future Lab (UHasselt)
 
 ## 🚀 About Me
 
@@ -27,8 +23,6 @@
       💻 Artificial Intelligence
 
       🔬 RLHF
-  
-📚 Currently learning more about reinforcement learning from human feedback to develop robot navigation algorithms.
 
 🔗 Let's connect, collaborate, and build something meaningful together!
 
